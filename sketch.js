@@ -10,7 +10,7 @@ fantasma.addAnimation("run",ghost);
 }
 
 function draw(){
-background("black");
+background("pink");
 drawSprites();
   
 }
